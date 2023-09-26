@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Martian Mono', monospace;
+}
+
+header {
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 5px solid rgb(36, 36, 36);
+}
+
